@@ -15,3 +15,4 @@ export { StereoFilter } from "./StereoFilter";
 export { ReverbFilter } from "./ReverbFilter";
 export { MonoFilter } from "./MonoFilter";
 export { TelephoneFilter } from "./TelephoneFilter";
+export { DelayFilter } from "./DelayFilter";
